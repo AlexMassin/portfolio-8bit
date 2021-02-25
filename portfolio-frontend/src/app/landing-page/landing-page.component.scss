@@ -1,0 +1,17 @@
+#landing-page {
+    text-align: center;
+    .clouds {
+        background: url('../../assets/images/clouds.png');
+        width: 100%;
+        height: 15em;
+    }
+    .headers {
+        margin-top: 4em;
+        margin-bottom: 2em;
+        span {
+            font-size: 24px;
+            color: white
+        }
+    }
+
+}
